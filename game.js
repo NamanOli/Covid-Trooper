@@ -4,7 +4,7 @@ function load_images(){
     enemy_image.src = "v2.png";
     
     player_img = new Image;
-    player_img.src = "superhero.png";
+    player_img.src = "hero.jpg";
     
     gem_image = new Image;
     gem_image.src = "gem.png";
