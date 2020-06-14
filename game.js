@@ -1,13 +1,13 @@
 function load_images(){
     //player,virus,gem
     enemy_image = new Image;
-    enemy_image.src = "Assets/v1.png";
+    enemy_image.src = "v1.png";
     
     player_img = new Image;
-    player_img.src = "Assets/superhero.png";
+    player_img.src = "superhero.png";
     
     gem_image = new Image;
-    gem_image.src = "Assets/gemm.png";
+    gem_image.src = "gemm.png";
     
     
 }
